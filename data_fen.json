@@ -1,0 +1,70 @@
+{
+  "angry": [
+    "grouchy",
+    "grumpy",
+    "cranky",
+    "recalcitrant"
+  ],
+  "gaudy": [
+    "garish",
+    "flamboyant",
+    "flashy",
+    "showy"
+  ],
+  "rat": [
+    "betrayer",
+    "lowlife",
+    "shop",
+    "denounce",
+    "strikebreaker"
+  ],
+  "wriggle": [
+    "wrestle",
+    "squirm",
+    "twist",
+    "writhe",
+    "worm"
+  ],
+  "yield": [
+    "grant",
+    "afford",
+    "pay",
+    "proceeds",
+    "issue"
+  ],
+  "bridge": [
+    "nosepiece",
+    "span",
+    "bridge circuit",
+    "bridge deck",
+    "bridgework"
+  ],
+  "domain": [
+    "demesne",
+    "knowledge base",
+    "field",
+    "orbit",
+    "area"
+  ],
+  "dread": [
+    "frightening",
+    "horrific",
+    "dreadful",
+    "fearsome",
+    "fear"
+  ],
+  "rapport": [
+    "resonance"
+  ],
+  "nil": [
+    "naught",
+    "nada",
+    "null",
+    "aught",
+    "cipher"
+  ],
+  "matrix": [
+    "intercellular substance",
+    "ground substance"
+  ]
+}
